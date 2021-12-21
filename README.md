@@ -1,5 +1,5 @@
 # Kiva_Crowdfunding
- ntroduction
+
 
 While the access to finance has improved over the years, more than 1.7 billion people around the world are still unbanked and can’t access basic financial services like borrowing. An increasing number of people have been resorting to crowdfunding loans to start businesses, invest in equipment or even pay tuition fees.
 
